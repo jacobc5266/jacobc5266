@@ -44,6 +44,14 @@ Developed a relational database and Python-based data pipeline for analyzing a d
 ### Python Report Automation Program
 Automated report generation with Python, improving efficiency and accuracy. Features include data integration, cleaning, enrichment, and modular report generation, reducing report time by 97%.
 
+## 🌟 Work Experience
+My primary work experience lies in the FinTech sector, where I have worked in:
+
+- Customer Service
+- Technical Support
+- Client Onboarding Education
+- Data Analytics
+
 ## 🌱 Interests and Hobbies
 - **Technical Interests:** 
   - Backend development
