@@ -18,16 +18,19 @@ I'm a dedicated backend developer with a passion for building efficient, scalabl
   - Python
   - SQL (Postgres and Oracle)
   - NoSQL (DynamoDB)
+  - HTML, CSS, Javascript, React.js
 - **Tools and Technologies:**
-  - Tableau, Jupyter Notebooks, Pandas, Matplotlib, Seaborn, Plotly, Scikit-Learn
-  - Microsoft Office (Advanced Excel skills)
+  - Spring & Spring Boot
   - IntelliJ, VSCode, PgAdmin
   - Git and GitHub
   - AWS (Lambda, API Gateway, DynamoDB, CloudWatch, S3)
   - Dagger, Gradle, PlantUML, Trello
+  - Tableau, Jupyter Notebooks, Pandas, Matplotlib, Seaborn, Plotly, Scikit-Learn
+  - Microsoft Office (Advanced Excel skills)
 
 ## 🔥 Areas of Expertise
 - Backend Development
+- Server-Side Development
 - Serverless Development
 - API Design and Development
 - Database Design and Development
