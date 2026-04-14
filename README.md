@@ -1,70 +1,69 @@
 # Hi there! 👋 I'm Jacob Candelaria
 
-I'm a dedicated backend developer with a passion for building efficient, scalable data analytics pipelines and developing robust backend solutions. I'm currently enhancing my skills through an intensive backend development bootcamp in Java.
+Backend-focused software engineer building scalable SaaS systems with Java, Spring Boot, and PostgreSQL. I enjoy designing clean architectures, working with complex data models, and solving problems at the system level.
+
+---
 
 ## 🚀 About Me
-- **Name:** Jacob Candelaria
-- **Tagline:** Dedicated to backend development and data analytics.
-- **Current Status:** Professional development period to complete a backend development bootcamp in Java.
-- **Education:** 
-  - Some college coursework in Secure Software Development.
-    - Relevant courses include Intro to Programming with Java and Database Design and Development with Oracle SQL.
-  - Completed IBM Data Science specialization via Coursera.
-  
+- Backend engineer with a focus on **scalable system design and database architecture**
+- Currently building a **multi-tenant photography SaaS platform**
+- Strong interest in **performance optimization, data modeling, and backend architecture**
+- Experience across the stack, with a backend-first mindset
 
-## 🛠 Technical Skills
-- **Languages:**
-  - Java (Primary)
-  - Python
-  - SQL (Postgres and Oracle)
-  - NoSQL (DynamoDB)
-  - HTML, CSS, Javascript, React.js
-- **Tools and Technologies:**
-  - Spring & Spring Boot
-  - IntelliJ, VSCode, PgAdmin
-  - Git and GitHub
-  - AWS (Lambda, API Gateway, DynamoDB, CloudWatch, S3)
-  - Dagger, Gradle, PlantUML, Trello
-  - Tableau, Jupyter Notebooks, Pandas, Matplotlib, Seaborn, Plotly, Scikit-Learn
-  - Microsoft Office (Advanced Excel skills)
+---
 
-## 🔥 Areas of Expertise
-- Backend Development
-- Server-Side Development
-- Serverless Development
-- API Design and Development
-- Database Design and Development
-- Process Automation
-- Data Analysis
+## 🛠 Tech Stack
+
+**Backend**
+- Java (Primary), Spring Boot, jOOQ
+- REST API design, concurrent processing, transactional systems
+
+**Database**
+- PostgreSQL, Oracle, DynamoDB
+- Advanced SQL, JSONB, query optimization, schema design
+
+**Cloud & DevOps**
+- AWS (ECS Fargate, S3, RDS, Lambda, API Gateway)
+- Docker
+
+**Frontend (when needed)**
+- TypeScript, React, Next.js
+
+---
 
 ## 💼 Projects
-### Javengers Assemble Employee Management System
-A comprehensive Employee and Time Management System with features for user and admin management, built using Java, AWS Lambda, API Gateway, and DynamoDB. Tools used include Gradle and Log4j2.
 
-### Analysis of US Tech & Vocational Education Funding (2010-2020)
-Developed a relational database and Python-based data pipeline for analyzing a decade of US educational funding. Conducted in-depth data analysis and created interactive visualizations.
+### 📸 Photography SaaS Platform *(In Progress)*
+- Multi-tenant platform with role-based access and advanced metadata handling
+- jOOQ-based persistence layer with composite keys and keyset pagination
+- JSONB-driven schema to reduce joins and improve query performance
+- Concurrent upload pipeline with deduplication and transactional integrity
+- Designed for AWS deployment using ECS Fargate, RDS, S3, and CloudFront
 
-### Python Report Automation Program
-Automated report generation with Python, improving efficiency and accuracy. Features include data integration, cleaning, enrichment, and modular report generation, reducing report time by 97%.
+---
 
-## 🌟 Work Experience
-My primary work experience lies in the FinTech sector, where I have worked in:
+### 🧑‍💼 Employee Management System
+Serverless employee management system built with AWS Lambda, API Gateway, and DynamoDB, including authentication and role-based access.
 
-- Customer Service
-- Technical Support
-- Client Onboarding Education
-- Data Analytics
+---
 
-## 🌱 Interests and Hobbies
-- **Technical Interests:** 
-  - Backend development
-  - Data science, data engineering, and data analysis
-  - Building scalable data analytics pipelines
-- **Hobbies:**
-  - Photography (landscape and astrophotography)
-  - Classical music (clarinet and piano, focusing on Chopin, Beethoven, and Rachmaninoff)
-  - Historic linguistics
+### 📊 Education Funding Analysis
+Built a data pipeline and relational database to analyze U.S. school funding (2010–2020), with data cleaning, transformation, and visualization.
 
-## 📫 How to Reach Me
+---
+
+## 💼 Background
+Previous experience in FinTech, including technical support and process automation. Focused on troubleshooting complex systems and improving operational efficiency through Python-based tooling.
+
+---
+
+## 🌱 Interests
+- Backend architecture & system design
+- Database design and performance optimization
+- Astrophotography & landscape photography
+
+---
+
+## 📫 Contact
 - **LinkedIn:** [Jacob Candelaria](https://www.linkedin.com/in/jacob-candelaria-34876897)
-- **Email:** jacobc.52@hotmail.com
+- **Contact:** [jcandelaria.dev/contact](https://jcandelaria.dev/contact)
