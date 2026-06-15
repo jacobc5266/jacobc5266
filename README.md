@@ -1,69 +1,106 @@
 # Hi there! 👋 I'm Jacob Candelaria
 
-Backend-focused software engineer building scalable SaaS systems with Java, Spring Boot, and PostgreSQL. I enjoy designing clean architectures, working with complex data models, and solving problems at the system level.
+Software Engineer focused on backend systems, cloud architecture, and data-intensive applications. I build software with Java, Spring Boot, PostgreSQL, and AWS, with interests in financial systems, SaaS platforms, and process automation.
 
 ---
 
 ## 🚀 About Me
-- Backend engineer with a focus on **scalable system design and database architecture**
-- Currently building a **multi-tenant photography SaaS platform**
-- Strong interest in **performance optimization, data modeling, and backend architecture**
-- Experience across the stack, with a backend-first mindset
+
+* Building a multi-tenant photography SaaS platform from the ground up
+* Experience designing APIs, database schemas, cloud infrastructure, and data processing pipelines
+* Background in FinTech, reporting automation, and operational analytics
+* Strong interest in backend architecture, database design, and performance optimization
+* Currently expanding my AWS knowledge while continuing to deepen my backend engineering skills
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Technical Focus
 
-**Backend**
-- Java (Primary), Spring Boot, jOOQ
-- REST API design, concurrent processing, transactional systems
+### Backend Engineering
 
-**Database**
-- PostgreSQL, Oracle, DynamoDB
-- Advanced SQL, JSONB, query optimization, schema design
+* Java
+* Spring Boot
+* jOOQ
+* REST API design
+* Concurrent processing
+* Transactional systems
 
-**Cloud & DevOps**
-- AWS (ECS Fargate, S3, RDS, Lambda, API Gateway)
-- Docker
+### Databases & Data Engineering
 
-**Frontend (when needed)**
-- TypeScript, React, Next.js
+* PostgreSQL
+* Oracle
+* DynamoDB
+* Data modeling
+* Query optimization
+* Advanced SQL
+* ETL development
+* JSONB
+* CTEs, aggregation, and relational data transformation
+
+### Cloud & Infrastructure
+
+* AWS (ECS Fargate, RDS, S3, CloudFront, Lambda, API Gateway)
+* Docker
+* Cloud-native application design
+
+### Frontend
+
+* TypeScript
+* React
+* Next.js
 
 ---
 
-## 💼 Projects
+## 💼 Featured Projects
 
-### 📸 Photography SaaS Platform *(In Progress)*
-- Multi-tenant platform with role-based access and advanced metadata handling
-- jOOQ-based persistence layer with composite keys and keyset pagination
-- JSONB-driven schema to reduce joins and improve query performance
-- Concurrent upload pipeline with deduplication and transactional integrity
-- Designed for AWS deployment using ECS Fargate, RDS, S3, and CloudFront
+### 📸 Multi-Tenant Photography SaaS Platform
+
+A full-stack SaaS application designed for photographers to manage clients, bookings, galleries, and business operations.
+
+Highlights:
+
+* Multi-tenant architecture
+* Role-based authorization
+* jOOQ-powered persistence layer
+* PostgreSQL with advanced JSONB usage
+* Complex relational querying using CTEs, array aggregation, and keyset pagination
+* Concurrent media upload pipeline with deduplication and metadata extraction
+* AWS deployment architecture using ECS Fargate, RDS, S3, and CloudFront
 
 ---
 
 ### 🧑‍💼 Employee Management System
-Serverless employee management system built with AWS Lambda, API Gateway, and DynamoDB, including authentication and role-based access.
+
+Serverless employee management system built with AWS Lambda, API Gateway, and DynamoDB, including authentication and role-based access controls.
 
 ---
 
 ### 📊 Education Funding Analysis
-Built a data pipeline and relational database to analyze U.S. school funding (2010–2020), with data cleaning, transformation, and visualization.
+
+Data engineering and analytics project examining U.S. school district funding trends from 2010–2020 using Python, PostgreSQL, and Jupyter.
 
 ---
 
-## 💼 Background
-Previous experience in FinTech, including technical support and process automation. Focused on troubleshooting complex systems and improving operational efficiency through Python-based tooling.
+## 💡 Professional Background
+
+Before moving into software engineering, I spent several years in FinTech supporting payment processing operations and building Python automation used for reporting and operational workflows across partner financial institutions.
+
+That experience gave me a strong appreciation for reliable systems, data quality, and the operational side of software.
 
 ---
 
-## 🌱 Interests
-- Backend architecture & system design
-- Database design and performance optimization
-- Astrophotography & landscape photography
+## 🌌 Outside of Software
+
+Outside of software, most of my time goes toward photography and classical piano.
+
+Photography has taken me throughout the mountains and dark skies of Southwest Colorado and ultimately inspired the SaaS platform I'm currently building.
+
+On the music side, I enjoy studying classical piano and have worked on pieces by composers such as Chopin, Beethoven, Debussy, and Rachmaninoff.
 
 ---
 
-## 📫 Contact
-- **LinkedIn:** [Jacob Candelaria](https://www.linkedin.com/in/jacob-candelaria-34876897)
-- **Contact:** [jcandelaria.dev/contact](https://jcandelaria.dev/contact)
+## 📫 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/jacob-candelaria-34876897
+* Website: https://alpinetechsolutions.dev
+* GitHub: https://github.com/jacobc5266
